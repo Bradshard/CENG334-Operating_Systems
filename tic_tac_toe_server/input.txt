@@ -1,0 +1,18 @@
+10 10 4 8
+X 4
+./random_player X 100 10 10
+O 4
+./horizontal_player O 200 10 10
+Z 4
+./smart_player Z 150 10 10
+A 4
+./smart_player Z 150 10 10
+B 4
+./smart_player Z 150 10 10
+C 4
+./smart_player Z 150 10 10
+D 4
+./smart_player Z 150 10 10
+E 4
+./smart_player Z 150 10 10
+
